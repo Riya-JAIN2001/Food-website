@@ -3,7 +3,7 @@
 ## Description
 Best Eats is a modern and responsive React application designed to showcase and filter food items from various categories. The application features a dynamic menu, filtering options, and a visually appealing interface.
 
-## [Live Demo](https://food-website-8oyyf6o80-riya-s-projects.vercel.app/)
+## [Live Demo](https://food-website-nine-xi.vercel.app/)
 
 ## Features
 - Responsive Navbar with a collapsible menu for mobile devices
